@@ -1,0 +1,20 @@
+{"name": "ghostbot",
+ "version": "1.0.0",
+ "description": "Node.js backend for Ghostbot",
+ "main": "index.js",
+ "scripts": {
+   "start": "node index.js"
+ },
+ "dependencies": {
+   "@solana/web3.js": "^1.31.1",
+   "express": "^4.18.2",
+   "express-rate-limit": "^5.5.1",
+   "cors": "^2.8.5",
+   "dotenv": "^16.0.3",
+   "winston": "^3.10.0",
+   "bip39": "^3.0.5",
+   "bs58": "^5.0.0",
+   "tweetnacl": "^1.0.3",
+   "ed25519-hd-key": "^2.1.0"
+ }
+}
