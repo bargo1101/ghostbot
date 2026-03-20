@@ -1,0 +1,2 @@
+# ghostbot
+Solana ghostbot
